@@ -1,0 +1,8 @@
+# Conventional Commit specification as per https://www.conventionalcommits.org/en/v1.0.0/#specification
+# Further granularity via @commitlint/config-conventional  https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional
+
+# <type>[optional scope]: <description>
+
+# [optional body]
+
+# [optional footer(s)]
